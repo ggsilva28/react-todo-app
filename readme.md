@@ -5,7 +5,7 @@ This application was developed during the [course](https://www.udemy.com/course/
 
 # Live Demo
 After Developing the application i adapted it work alone using only localStorage and gave it a new design. You can see the results here:
-[Live Demo](https://react-todo-ggsilva28.vercel.app/)
+[Live Demo](https://react-todo-app-ggsilva28.vercel.app/)
 
 ## 🚀 About me
 
