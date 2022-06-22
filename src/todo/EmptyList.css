@@ -1,0 +1,10 @@
+.emptyList{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.emptyList img{
+    width: 200px;
+    margin: 130px 0px 45px;
+}
